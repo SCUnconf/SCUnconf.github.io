@@ -1,0 +1,7 @@
+.background-gdcr {
+  background: url("../images/gdcr2016-wide.png") 0px no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
